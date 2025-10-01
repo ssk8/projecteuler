@@ -1,0 +1,40 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.15.5"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "d8f5c7d58fa0ab86fbc3b53bff3e7390",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "UmZf",
+      "code_hash": "4bc89e6fc6be30cfb4aec4c76217f189",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "2783915460\n[('0', '2', '1')]\n"
+        }
+      ]
+    }
+  ]
+}

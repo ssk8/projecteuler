@@ -1,0 +1,47 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.16.2"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "f34e3d5f78e349a418a07117910ddd76",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "interruption",
+          "evalue": "This cell was interrupted and needs to be re-run",
+          "traceback": []
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "0 500 500 0\n"
+        },
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "200 375 425 31875000\n"
+        },
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "375 200 425 31875000\n"
+        },
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "500 0 500 0\n"
+        },
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;/usr/lib/python3.13/site-packages/marimo/_runtime/executor.py&quot;</span>, line <span class=\"m\">138</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"n\">exec</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">body</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n<span class=\"w\">    </span><span class=\"pm\">~~~~^^^^^^^^^^^^^^^^^^</span>\n  File <span class=\"nb\">&quot;/tmp/marimo_769993/__marimo__cell_Hbol_.py&quot;</span>, line <span class=\"m\">4</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"k\">if</span> <span class=\"n\">a</span><span class=\"o\">**</span><span class=\"mi\">2</span><span class=\"o\">+</span><span class=\"n\">b</span><span class=\"o\">**</span><span class=\"mi\">2</span><span class=\"o\">==</span><span class=\"n\">c</span><span class=\"o\">**</span><span class=\"mi\">2</span> <span class=\"ow\">and</span> <span class=\"n\">a</span><span class=\"o\">+</span><span class=\"n\">b</span><span class=\"o\">+</span><span class=\"n\">c</span><span class=\"o\">==</span><span class=\"mi\">1000</span><span class=\"p\">:</span>\n<span class=\"w\">       </span><span class=\"pm\">^^^^^^^^^^^^^^^</span>\n  File <span class=\"nb\">&quot;/usr/lib/python3.13/site-packages/marimo/_runtime/handlers.py&quot;</span>, line <span class=\"m\">32</span>, in <span class=\"n\">interrupt_handler</span>\n<span class=\"w\">    </span><span class=\"k\">raise</span> <span class=\"n\">MarimoInterrupt</span>\n<span class=\"gr\">KeyboardInterrupt</span>\n</pre></div>\n</span>"
+        }
+      ]
+    }
+  ]
+}

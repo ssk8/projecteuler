@@ -1,0 +1,45 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.13.2"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "f8431bd0300d146f990a0078231076d6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "sMwa",
+      "code_hash": "0ded435ba57e70353f32193bacf793cd",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "5777 76\n"
+        },
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "5993 77\n"
+        }
+      ]
+    }
+  ]
+}

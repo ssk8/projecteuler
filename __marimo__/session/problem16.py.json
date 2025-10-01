@@ -1,0 +1,27 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.16.2"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "GIIb",
+      "code_hash": "3888614c5aff6b9662783bf442016ba0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre style='font-size: 12px'>1366</pre>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

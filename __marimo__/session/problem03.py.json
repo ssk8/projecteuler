@@ -1,0 +1,34 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.16.2"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "e7d15dd29b826fa2c1832fc544fb126f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "GWDg",
+      "code_hash": "166532e05a02243cefda3344edca4615",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre style='font-size: 12px'>array([  71,  839, 1471, 6857])</pre>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

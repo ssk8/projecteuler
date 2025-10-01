@@ -1,0 +1,73 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.13.2"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "d34ed6023c7c289c629979288e9b3e66",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "eunR",
+      "code_hash": "038fbf296ff9f7a749573ec51d0c0708",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre style='font-size: 12px'>45228</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TyOA",
+      "code_hash": "f31efd62c119334c11a39becc9663a71",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre style='font-size: 12px'>7254</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Ojbj",
+      "code_hash": "3dd296d9d9980f83b63bae185b9a05ff",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre style='font-size: 12px'>{1, 2, 3, 5, 6}</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Uyvg",
+      "code_hash": "254e491fb4f56d3327a229fca012f11f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre style='font-size: 12px'>45228</pre>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

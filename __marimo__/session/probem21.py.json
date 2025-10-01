@@ -1,0 +1,27 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.15.5"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "KqXi",
+      "code_hash": "1de2cae72eb742d8fee33f754399ef73",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre style='font-size: 12px'>219</pre>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
